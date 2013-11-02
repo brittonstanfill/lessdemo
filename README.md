@@ -14,4 +14,7 @@ Refactor the CSS to take advantage of Less.
 6. Implement either something you learned from studying twitter bootstrap's Less, or implement bootstrap and use some of their 
  two bootstrap variables and two bootstrap's mixins.
 
+
+Black Diamond: Add social media links using an icon font, use variables and mixins.
+
 When you are done
